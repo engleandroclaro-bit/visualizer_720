@@ -1,4 +1,4 @@
-# Audio Visualizer 720p (Safety Version)
+# Audio Visualizer 720p
 
 Um visualizador de áudio e sincronizador de letras (LRC) desenvolvido em Python utilizando **Pygame**, **Pygame GUI** e **FFmpeg**.
 
