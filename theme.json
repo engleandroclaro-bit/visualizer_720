@@ -1,0 +1,70 @@
+{
+  "fonts": {
+    "default": {
+      "name": "default",
+      "size": 16
+    }
+  },
+  "colours": {
+    "dark_bg": "#121212",
+    "panel_bg": "#1d1f23",
+    "panel_border": "#2b2e33",
+    "text": "#e6e6e6",
+    "muted_text": "#b8b8b8",
+    "accent": "#3a86ff",
+    "accent_soft": "#2f6ac7",
+    "control_bg": "#2a2d32",
+    "control_hover": "#343941",
+    "handle_bg": "#3b3f46",
+    "scrollbar_bg": "#23262a",
+    "scrollbar_border": "#2c3036",
+    "scrollbar_handle": "#3a3f47",
+    "scrollbar_handle_hover": "#4a515c",
+    "filled_bar": "#3a86ff",
+    "unfilled_bar": "#3a3d43",
+    "selected_bg": "#263247",
+    "selected_text": "#ffffff",
+    "disabled_text": "#7a7f88"
+  },
+  "defaults": {
+    "label": {
+      "font": "default",
+      "text_colour": "text",
+      "object_id": "#label"
+    },
+    "button": {
+      "font": "default",
+      "text_colour": "text",
+      "normal_bg": "control_bg",
+      "hovered_bg": "control_hover",
+      "selected_bg": "selected_bg",
+      "border_colour": "panel_border"
+    },
+    "panel": {
+      "background_colour": "panel_bg",
+      "border_colour": "panel_border"
+    },
+    "horizontal_slider": {
+      "filled_bar_colour": "filled_bar",
+      "unfilled_bar_colour": "unfilled_bar",
+      "handle_colour": "handle_bg"
+    },
+    "drop_down_menu": {
+      "font": "default",
+      "text_colour": "text",
+      "selected_option_bg_colour": "selected_bg",
+      "selected_option_text_colour": "selected_text",
+      "normal_bg": "control_bg",
+      "hovered_bg": "control_hover",
+      "border_colour": "panel_border"
+    },
+    "vertical_scroll_bar": {
+      "background_colour": "scrollbar_bg",
+      "border_colour": "scrollbar_border",
+      "button_background_colour": "control_bg",
+      "button_background_hover_colour": "control_hover",
+      "scroll_bar_colour": "scrollbar_handle",
+      "scroll_bar_hover_colour": "scrollbar_handle_hover"
+    }
+  }
+}
