@@ -15,5 +15,4 @@ Um visualizador de áudio e sincronizador de letras (LRC) desenvolvido em Python
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/engleandroclaro-bit/visualizer_720_safety.git](https://github.com/engleandroclaro-bit/visualizer_720_safety.git)
-   cd visualizer_720_safety
+   git clone https://github.com/engleandroclaro-bit/visualizer_720_safety.git
